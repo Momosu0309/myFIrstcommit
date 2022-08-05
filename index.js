@@ -6,3 +6,12 @@ for (let i = 0; i < stat.length; i++) {
 }
 // deve-3
 console.log("hi");
+// deve4
+let pull = true;
+if (pull) {
+  console.log("pull");
+  pull = false;
+} else {
+  console.log("push");
+  pull = true;
+}

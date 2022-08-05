@@ -4,3 +4,5 @@ for (let i = 0; i < stat.length; i++) {
   let element = array[i];
   console.log(element);
 }
+// deve-3
+console.log("hi");
